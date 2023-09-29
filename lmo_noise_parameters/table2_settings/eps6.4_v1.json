@@ -1,0 +1,21 @@
+{
+    "a1": 0.1,
+    "a3": 0.9,
+    "a4": 0.7,
+    "G_theta": 7.5,
+    "G_k": 1,
+    "E_lambda": 1,
+    "U_b": 9,
+    "U_a": 8,
+    "eps": 6.328842462,
+    "order": 113,
+    "Gamma": 0.9,
+    "Usefulness": 0.99841577,
+    "overall_privacy": 4.884292439165051,
+    "dataset": "sst-2",
+    "distributions": [
+        "Gamma",
+        "Exponential",
+        "Uniform"
+    ]
+}
